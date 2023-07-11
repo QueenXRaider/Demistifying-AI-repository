@@ -1,0 +1,94 @@
+Part I - Problem Selection, Definition & Motivation + Human in the Loop
+
+Define Artificial Intelligence
+Artificial Intelligence (also called “AI”), is a machine that is capable of learning things on its own from previous experiences and when properly trained.
+
+Define the 5 main characteristics of AI
+So the 5 main characteristics of AI are:
+Input
+Output
+Algorithm 
+Self-learning
+AI language model
+
+Obviously you need an input and an output to make it work, so that’s pretty self-explanatory. You need algorithms for things like problem solving, learning/adaption, optimization, decision making and automation. Algorithms provide the underlying logic for AI which is essential.
+Self-learning is self-explanatory as well. I don’t think an AI is an AI if it doesn’t have self-learning as one of its characteristics. 
+The AI language model is used for the output. It’s to process natural language and it’s used for both input and output. The AI needs it to speak like a human etc.
+
+
+Part II - AI Data Product Description of ChatGPT
+
+Defining the Data Product “ChatGPT”
+ChatGPT is a powerful Data Product. It’s being used by many people. The data product gives a lot of good answers, but since it’s still being developed, it also gives very… useless answers. You can ask ChatGPT to review the previous answer, it apologises and then it gives you another useless answer.
+
+What AI problem/use-case does it solve?
+When it does give you a good and useful answer, you can use the answer to solve the problem that you asked. You’ve probably seen people make YouTube videos asking ChatGPT how to make money fast and easily. They then tried it themselves and guess what, it worked. Probably because they had a lot of knowledge of those things already, but we can never prove it.
+It also helps students (like me)  a lot. I’ve used it for programming and it has given me a lot of useful answers. Sometimes… not so much. 
+
+Designate the Capability Domain & Application Domain
+ChatGPT operates within the domain of natural language processing and conversational AI. It makes it so it’s easy to retrieve information and so you could 
+Description of Data Product Components & Techniques involved
+
+User-interface
+ChatGPT has a very user-friendly interface where you can input prompts like questions, requests, etc. by typing into a text box. It then responds in the same way to you.
+AI-model in terms of its Agency and Architecture
+Like a lot of apps, ChatGPT also uses encoding and decoding. ChatGPT uses it for generating the appropriate responses.
+
+Learning algorithm
+The AI was trained on a huge dataset of text to predict missing words and learn the contextual relationship between the words. 
+
+How is it trained?
+We’ve watched a video with the class about how AI’s are trained. They get trained by a lot of people. The people then show the AI a picture, and tell what the picture demonstrates. E.g. they select the outline of a dog in the picture, then tell the AI that it’s a dog.
+
+Parameters involved
+ChatGPT’s parameters were learnt, not programmed by the developers. They help ChatGPT to achieve human-like conversations etc. All trained by a huge group of AI trainers.
+
+
+Part III - Use Case Description & Application
+
+Most popular ChatGPT use-cases
+ChatGPT usually gets used for having conversations. It’s especially trained for conversations, so people use it a lot. Most AI’s aren’t really good at conversations, but it’s different for ChatGPT.
+
+Examples of:
+    fact-checking/truth finding
+        The people who use ChatGPT rely on it way too much. It’s already known that the generated answers aren’t accurate.
+    Question answering
+        It’s really good at answering questions. Which is why it’s the feature that gets utilised most. The only con is inaccuracy.
+    Educational Tutoring
+        A lot of students use ChatGPT to help them with their assignments or to explain things to them.
+    Theory-of-Mind problem solving
+        It can have conversations with their users.
+    APA-style citation
+        The AI can generate responses by using the APA format by following the standard rules and templates for different types of situations.
+
+Describe, demonstrate and analyse each of use-cases in terms of:
+    Prompt engineering techniques
+        ChatGPT is trained using data from up till 2021. It can have human conversations and answer questions which provide the responses.
+    Human-Computer interaction (HCI) principles
+        It gets trained to have human-like conversations. Of course, it’s still based on an AI-language model. So it’s very basic. But because of the HCI principles, it can respond quickly, learn how to explain, say sorry when making a mistake etc.
+    Performance level/accuracy
+        It’s hard to determine how good it actually is. Mostly because it really depends on the user's input.
+    Parameter setting
+        ChatGPT has been trained using self-supervised learning and reinforcement of learning techniques. Parameters determine how the AI generates the responses.
+
+
+Part IV - Critical reflection & Ethical Considerations
+
+Assses popularity / “ground-breaking” aspects
+ChatGPT was the first AI that I learnt about. I learnt about it through school and news. It became a really big thing because of it. I think the news definitely helped to advertise it. 
+The “ground-breaking” aspect lies in the improvement of ChatGPT. Since it has evolved so quickly and it has grown so much. Even now, it’s still under development.
+
+Evaluate whether the AI data product solves the problem at hand
+Since AI’s are pretty much limited to what they’re trained for and it tends to generate incorrect information, it’s not consistent and/or accurate. 
+
+Review potential issues & existing documentation in relation to the European AI-act
+AI’s are quite known for spreading misinformation. If you think about how naive people really are and how easily they’ll believe what anyone says, combine it with what AI’s say, you could get into some serious problems. The AI could have you enter all your bank details without you realising what’s actually happening. And the next morning, all your money is gone. 
+The European AI-act is about the governments promoting the use of AI, while also protecting the people so they don’t have to be worried about anything.
+
+
+Sources:
+Bernard Marr (June 2 2023) - https://www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/
+Kizito Nyutiymbiy (December 30 2020) - https://www.profolus.com/topics/what-are-parameters-in-ai-models/
+KJ Jacoby (March 10 2023) - https://www.profolus.com/topics/what-are-parameters-in-ai-models/
+
+
